@@ -1,6 +1,16 @@
+# Third-Party Notices
+
+This Windows project is inspired by Rectangle for macOS by Ryan Hanson:
+https://github.com/rxhanson/Rectangle
+
+The original Rectangle project is MIT licensed. This project is independent and is not affiliated with or endorsed by Ryan Hanson or the upstream Rectangle project.
+
+## Rectangle MIT License Notice
+
 MIT License
 
-Copyright (c) 2026 Christopher Rego
+Copyright (c) 2019-2026 Ryan Hanson
+Based on the Spectacle app, Copyright (c) 2017 Eric Czarny eczarny@gmail.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
